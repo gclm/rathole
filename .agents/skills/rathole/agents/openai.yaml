@@ -1,0 +1,6 @@
+interface:
+  display_name: "Rathole"
+  short_description: "Repo-specific patterns and workflows for rathole"
+  default_prompt: "Use the rathole repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
